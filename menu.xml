@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<menu>
+	<Cuisines>
+		<Cuisine name = "Italian">
+			<Dish>
+				<name>Spagetti Carbonara</name>
+				<price>20</price>
+			</Dish>
+			<Dish>			
+				<name>Talatateli</name>
+				<price>40.20</price>
+			</Dish>
+			<Dish>
+				<name>Pica Bolonese</name>
+				<price>30</price>
+			</Dish>	
+		</Cuisine>
+		<Cuisine name = "Polish">
+			<Dish>
+				<name>Tatar</name>
+				<price>35.10</price>
+			</Dish>
+		</Cuisine>
+		<Cuisine name = "Mexican">
+			<Dish>
+				<name>Cesadela</name>
+				<price>40.00</price>
+			</Dish>
+			<Dish>
+				<name>Burito</name>
+				<price>25.30</price>	
+			</Dish>
+		</Cuisine>
+	</Cuisines>
+	<Desserts>
+		<Dessert>
+			<name>Melba</name>
+			<price>13.70</price>
+		</Dessert>
+		<Dessert>
+			<name>Icecream</name>
+			<price>08</price>
+		</Dessert>
+	</Desserts>
+	<Drinks>
+		<Drink>
+			<name>Beer: Staropramen</name>
+			<price>08</price>
+		</Drink>
+		<Drink>
+			<name>Black Ram</name>
+			<price>10.00</price>
+		</Drink>
+	</Drinks>
+</menu>
